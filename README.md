@@ -3,7 +3,7 @@
 
 This repository is a forked version of [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) that can be run on self-hosted EC2.
 
-The maintenance of this repository is carried out as needed, so it may not always be the latest version. If the versions are different, we recommend that you check the changed files and apply them yourself.
+The maintenance of this repository is carried out as needed, so it may not always be the latest version. If the versions are different, we recommend that you check the [changed files](https://github.com/team-meramera/amazon-vpc-cni-k8s/commit/15e3bfda8efed7d0ae03f2cbda66b988d27acf4c) and apply them yourself.
 
 ## Setup
 
